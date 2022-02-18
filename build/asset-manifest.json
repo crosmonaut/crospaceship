@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e951807.css",
+    "main.js": "/static/js/main.7487c008.js",
+    "static/js/787.979d59f5.chunk.js": "/static/js/787.979d59f5.chunk.js",
+    "static/media/homeBg.png": "/static/media/homeBg.00edcddcac2d6b9302a9.png",
+    "static/media/mintBg.png": "/static/media/mintBg.30071bd34192c39b8509.png",
+    "static/media/stars.png": "/static/media/stars.6428ffb0312b01e44b16.png",
+    "static/media/PetitePlanetsTech.png": "/static/media/PetitePlanetsTech.4c3cd081c8a859020de3.png",
+    "static/media/CrosmoGray3.png": "/static/media/CrosmoGray3.ff69d3b1fe87c7bfbcdb.png",
+    "static/media/GoldSpaceship.png": "/static/media/GoldSpaceship.75364a97aae94f440897.png",
+    "static/media/WhiteSpacesh1.png": "/static/media/WhiteSpacesh1.0e3eb40ce463ce090b8f.png",
+    "static/media/goldSpaceship2.png": "/static/media/goldSpaceship2.cec23d61d19cb0b580c3.png",
+    "static/media/redcrosmonaut.png": "/static/media/redcrosmonaut.eb6e8f17395708d836e8.png",
+    "static/media/Crosmo1.png": "/static/media/Crosmo1.7750c532378d4c6ab8c9.png",
+    "static/media/Crosmonangelo31.png": "/static/media/Crosmonangelo31.0ba701dec3314aa2f567.png",
+    "static/media/CrosmoPolitan1.png": "/static/media/CrosmoPolitan1.88c970c81eb54f3c98b5.png",
+    "static/media/CrosmoFullRed.png": "/static/media/CrosmoFullRed.3d676b5ea1ae7f402a0d.png",
+    "static/media/WhiteSpacesh2.png": "/static/media/WhiteSpacesh2.ec682771c0ffd08d4644.png",
+    "static/media/CrosmoBlackO.png": "/static/media/CrosmoBlackO.727dc9fc449c4fb81ca2.png",
+    "static/media/metamask.svg": "/static/media/metamask.09e5f554ca7f2e9f93b4d3c237976b65.svg",
+    "static/media/walletconnect.svg": "/static/media/walletconnect.03da5e3f7ae7def7a75fea3a8f779e3f.svg",
+    "index.html": "/index.html",
+    "main.4e951807.css.map": "/static/css/main.4e951807.css.map",
+    "main.7487c008.js.map": "/static/js/main.7487c008.js.map",
+    "787.979d59f5.chunk.js.map": "/static/js/787.979d59f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e951807.css",
+    "static/js/main.7487c008.js"
+  ]
+}
