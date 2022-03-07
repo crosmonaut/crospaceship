@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.cc5a7073.css",
-    "main.js": "/static/js/main.105fa6c5.js",
+    "main.js": "/static/js/main.948818de.js",
     "static/js/787.979d59f5.chunk.js": "/static/js/787.979d59f5.chunk.js",
     "static/media/homeBg.png": "/static/media/homeBg.00edcddcac2d6b9302a9.png",
     "static/media/mintBg.png": "/static/media/mintBg.30071bd34192c39b8509.png",
     "static/media/stars.png": "/static/media/stars.6428ffb0312b01e44b16.png",
+    "static/media/CrosmoSuper.png": "/static/media/CrosmoSuper.e59aa9deca59d5f3e691.png",
     "static/media/PetitePlanetsTech.png": "/static/media/PetitePlanetsTech.4c3cd081c8a859020de3.png",
     "static/media/CrosmoGray3.png": "/static/media/CrosmoGray3.ff69d3b1fe87c7bfbcdb.png",
     "static/media/GoldSpaceship.png": "/static/media/GoldSpaceship.75364a97aae94f440897.png",
@@ -22,11 +23,11 @@
     "static/media/walletconnect.svg": "/static/media/walletconnect.03da5e3f7ae7def7a75fea3a8f779e3f.svg",
     "index.html": "/index.html",
     "main.cc5a7073.css.map": "/static/css/main.cc5a7073.css.map",
-    "main.105fa6c5.js.map": "/static/js/main.105fa6c5.js.map",
+    "main.948818de.js.map": "/static/js/main.948818de.js.map",
     "787.979d59f5.chunk.js.map": "/static/js/787.979d59f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc5a7073.css",
-    "static/js/main.105fa6c5.js"
+    "static/js/main.948818de.js"
   ]
 }
